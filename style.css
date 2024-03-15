@@ -19,3 +19,16 @@ text-align: center; /* If you want the text to be centered */
 padding: 10px;
 background-color: grey;
 }
+
+div {
+  background-color: red;
+  text-align: center;
+  width: 25%;
+  float: left;
+
+}
+p {
+  width: 800 px;
+  text-align: center;
+  color: blue;
+}
